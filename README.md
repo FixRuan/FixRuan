@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Ruan Pablo 👋
 
-🎓 **Estudante de Sistemas de Informação** na Universidade Federal de Lavras (UFLA)
+🎓**Estudante de Sistemas de Informação** na Universidade Federal de Lavras (UFLA)
+
 📱 **Desenvolvedor Web & Mobile**
 
 ---
